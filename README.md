@@ -8,7 +8,7 @@ This repository contains the complete code used in our paper **"DOHFUSE: Website
 - **GPU:** NVIDIA A10
 - **CPU:** 16 cores
 - **Memory:** 60 GB RAM
-- **Database:** All raw and processed data have been uploaded to Zenodo. For perfect reproduction, please download the full database from Zenodo. We also provide processed `.npz` files for convenience.
+- **Database:** All raw and processed data have been uploaded to ScienceDB. For perfect reproduction, please download the full database from ScienceDB. We also provide processed `.npz` files for convenience.
 
 ## Software Requirements
 
